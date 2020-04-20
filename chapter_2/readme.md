@@ -1,5 +1,8 @@
 # Chapter 2
 
+![figure2_9](image/figure2_9.jpeg)
+![figure2_10](image/figure2_10.jpeg)
+
 그림 2.9, 그림 2.10 Diagram을 Typescript 코드로 변환한 소스코드 
 
 ## 다이어그램으로 작업하기 (4/17)
